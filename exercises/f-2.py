@@ -1,0 +1,1 @@
+# Write a Python function, find_sum() that accepts an integer n and returns the sum of first n numbers. Invoke the function and display the sum of first n numbers
