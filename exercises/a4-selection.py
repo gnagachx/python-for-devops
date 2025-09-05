@@ -39,7 +39,7 @@ If any of the input is invalid, the bill amount should be considered as -1.
 #lex_auth_012693782475948032141
 
 def calculate_bill_amount(food_type,quantity_ordered,distance_in_kms):
-    bill_amount=0
+    bill_amount=5
     #write your logic here
     return bill_amount
 
